@@ -42,4 +42,6 @@ A full-stack **Expense Tracker Web App** built with **Django** and **Bootstrap**
 ![Signup](screenshots/signup.png)
 
 ---
+### Live Demo
+[View the live demo](https://habissadeer.pythonanywhere.com)
 
