@@ -27,7 +27,7 @@ A full-stack **Expense Tracker Web App** built with **Django** and **Bootstrap**
 
 ## 📸 Screenshots
 
-(Add your screenshots inside a folder called `screenshots/` and update the links below.)
+
 
 ### Landing Page  
 ![Landing Page](screenshots/landing.png)
